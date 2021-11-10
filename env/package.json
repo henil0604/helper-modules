@@ -1,14 +1,22 @@
 {
   "name": "@helper-modules/env",
   "version": "1.0.0",
-  "description": "",
+  "description": "Allows to Access Environment Variables Easily",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "",
+  "author": "Henil Malaviya <henilmalaviya06@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0"
-  }
+  },
+  "keywords": [
+    "@helper-modules",
+    ".env",
+    "env",
+    "dotenv",
+    "Envirionment Variable"
+  ],
+  "homepage": "https://github.com/henil0604/helper-modules/tree/main/env#readme"
 }
