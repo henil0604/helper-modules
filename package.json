@@ -1,9 +1,14 @@
 {
   "name": "@helper-modules/all",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Collection of modules that helps you in your Project",
   "main": "index.js",
   "scripts": {},
-  "author": "",
-  "license": "ISC"
+  "author": "Henil Malaviya <henilmalaviya06@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "@helper-modules",
+    "Helper Modules"
+  ],
+  "homepage": "https://github.com/henil0604/helper-modules#readme"
 }
