@@ -8,7 +8,7 @@ let log = (data = "", statusColor = "info", prefix = defaultPrefix) => {
     const canBeLogged = env("LOG") == undefined || env("LOG") == null ? true : env("LOG")
 
     if (!canBeLogged) {
-        return;
+        return null;
     }
 
     data.__proto__.canBeFormatted = true;
@@ -73,6 +73,7 @@ let log = (data = "", statusColor = "info", prefix = defaultPrefix) => {
 
     console.log(t);
 
+    return t;
 }
 
 log.__proto__.setDefaultPrefix = (prefix = "") => { defaultPrefix = prefix };
