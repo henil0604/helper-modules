@@ -1,7 +1,7 @@
 let helperModules = {};
 
-helperModules.env = require("./env/build");
-helperModules.log = require("./log/build");
+helperModules.env = require("./env");
+helperModules.log = require("./log");
 
 
 
