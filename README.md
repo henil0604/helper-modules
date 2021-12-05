@@ -19,3 +19,4 @@ npm i @helper-modules/<ModuleName>
 
 - [env](https://www.npmjs.com/package/@helper-modules/env)
 - [log](https://www.npmjs.com/package/@helper-modules/log)
+- [sleep](https://www.npmjs.com/package/@helper-modules/sleep)
