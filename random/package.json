@@ -1,0 +1,27 @@
+{
+  "name": "@helper-modules/random",
+  "version": "1.0.0",
+  "description": "A random string, number and uuid generator suit",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "node test",
+    "dev": "babel index.js --out-dir build --watch",
+    "build": "babel index.js --out-dir build"
+  },
+  "keywords": [
+    "random",
+    "random-string",
+    "uuid",
+    "random-number"
+  ],
+  "homepage": "https://github.com/henil0604/helper-modules/tree/main/random#readme",
+  "author": "Henil Malaviya <henilmalaviya06@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
