@@ -1,6 +1,6 @@
 # @helper-modules/throttle
 
-Allows to Throttle a function calls.
+Allows to Throttle function calls.
 
 ## Installation
 
