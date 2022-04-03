@@ -1,6 +1,6 @@
 {
     "name": "@helper-modules/debounce",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Allows to Debounce Function Calls",
     "main": "build/index.js",
     "scripts": {
