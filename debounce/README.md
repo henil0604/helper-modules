@@ -13,7 +13,7 @@ npm i @helper-modules/debounce
 
 ### Syntex
 ```js
-debounce(argument: Type);
+debounce(callback: Function, delay: Number);
 ```
 
 - Params:
