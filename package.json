@@ -1,6 +1,6 @@
 {
   "name": "@helper-modules/all",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "A Collection of modules that helps you in your Project",
   "main": "index.js",
   "scripts": {},
