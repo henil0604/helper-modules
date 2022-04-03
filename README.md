@@ -21,3 +21,4 @@ npm i @helper-modules/<ModuleName>
 - [log](https://www.npmjs.com/package/@helper-modules/log)
 - [sleep](https://www.npmjs.com/package/@helper-modules/sleep)
 - [random](https://www.npmjs.com/package/@helper-modules/random)
+- [debounce](https://www.npmjs.com/package/@helper-modules/debounce)
