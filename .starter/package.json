@@ -16,5 +16,5 @@
         "babel-cli": "^6.26.0",
         "babel-preset-es2015": "^6.24.1"
     },
-    "homepage": "https://github.com/henil0604/helper-modules/tree/main/log#readme"
+    "homepage": "https://github.com/henil0604/helper-modules/tree/main/<name>#readme"
 }
