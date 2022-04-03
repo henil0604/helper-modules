@@ -22,3 +22,4 @@ npm i @helper-modules/<ModuleName>
 - [sleep](https://www.npmjs.com/package/@helper-modules/sleep)
 - [random](https://www.npmjs.com/package/@helper-modules/random)
 - [debounce](https://www.npmjs.com/package/@helper-modules/debounce)
+- [throttle](https://www.npmjs.com/package/@helper-modules/throttle)
