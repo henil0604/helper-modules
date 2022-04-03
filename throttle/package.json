@@ -1,14 +1,16 @@
 {
     "name": "@helper-modules/throttle",
     "version": "1.0.0",
-    "description": "",
+    "description": "Allows to throttle function calls",
     "main": "build/index.js",
     "scripts": {
         "test": "node test",
         "dev": "babel index.js --out-dir build --watch",
         "build": "babel index.js --out-dir build"
     },
-    "keywords": [],
+    "keywords": [
+        "throttle"
+    ],
     "author": "Henil Malaviya <henilmalaviya06@gmail.com>",
     "license": "ISC",
     "dependencies": {},
