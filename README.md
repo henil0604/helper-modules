@@ -23,3 +23,4 @@ npm i @helper-modules/<ModuleName>
 - [random](https://www.npmjs.com/package/@helper-modules/random)
 - [debounce](https://www.npmjs.com/package/@helper-modules/debounce)
 - [throttle](https://www.npmjs.com/package/@helper-modules/throttle)
+- [mongodb-model](https://www.npmjs.com/package/@helper-modules/mongodb-model)
