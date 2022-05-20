@@ -23,7 +23,7 @@ const MongoDbModel = class {
     }
 
     async getMany(data) {
-        let instances = await this.model.findMany(data);
+        let instances = await this.model.find(data);
         return instances;
     }
 
@@ -72,6 +72,11 @@ const MongoDbModel = class {
 
     async clear() {
         let instances = await this.model.deleteMany();
+        return instances;
+    }
+
+    async getAll() {
+        let instances = await this.getMany();
         return instances;
     }
 
